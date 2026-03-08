@@ -1,0 +1,6 @@
+streamlit
+tinydb
+requests
+pypdf
+python-docx
+pandas
